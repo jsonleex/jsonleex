@@ -23,3 +23,4 @@ jobs:
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           use_prebuilt_image: yes
+          plugin_isocalendar: yes
